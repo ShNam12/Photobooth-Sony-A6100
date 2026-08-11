@@ -1,0 +1,30 @@
+{
+    "canvas_width": 1200,
+    "canvas_height": 1800,
+    "slots": [
+        {
+            "x": 60,
+            "y": 80,
+            "width": 510,
+            "height": 720
+        },
+        {
+            "x": 630,
+            "y": 80,
+            "width": 510,
+            "height": 720
+        },
+        {
+            "x": 60,
+            "y": 880,
+            "width": 510,
+            "height": 720
+        },
+        {
+            "x": 630,
+            "y": 880,
+            "width": 510,
+            "height": 720
+        }
+    ]
+}

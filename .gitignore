@@ -1,0 +1,12 @@
+# Môi trường ảo Python
+.venv/
+__pycache__/
+*.pyc
+
+# Thư mục & file ảnh tạm sinh ra khi test
+temp_test_session/
+*.jpg
+*.png
+
+# File môi trường
+.env

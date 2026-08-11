@@ -1,0 +1,10 @@
+{
+  "name": "Remix PHOTO TIME",
+  "description": "Ứng dụng chụp và in ảnh Photo Booth phong cách Hàn Quốc",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
